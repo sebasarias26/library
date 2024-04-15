@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.background{
+    display: flex;
+    overflow: hidden;
+    height: 60em;
+}
+.tittle{
+    position: absolute;
+    text-align: center;
+    margin-top: 2.5em;
+    margin-left: 3em;
+    font-size: 2em;
+    font-family: "Yusei Magic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.decoration1{
+    position: absolute;
+    height: 15em;
+    margin-top: 5em;
+}
+.decoration2{
+    position: absolute;
+    height: 8em;
+    margin-top: 12em;
+    margin-left: 15em;
+}
+.libraryDecoration{
+    width: 23em;
+    height: 2em;
+    position: absolute;
+    margin-top: 20em;
+    margin-left: 1.3em;
+    background-color: brown;
+}
+.libraryDecoration2{
+    width: 23em;
+    height: 2em;
+    position: absolute;
+    margin-top: 33em;
+    margin-left: 1.3em;
+    background-color: brown;
+}
+.select1{
+    display: flex;
+    position: absolute;
+    height: 14em;
+    width: 4em;
+    margin-top: 22em;
+    margin-left: 3em;
+    overflow: hidden;
+}
+.select_book1{
+    height: 11em;
+}
+.select2{
+    display: flex;
+    position: absolute;
+    height: 14em;
+    width: 4em;
+    margin-top: 22em;
+    margin-left: 7em;
+    overflow: hidden;
+}
+.select_book2{
+    height: 11em;
+}
+.select3{
+    display: flex;
+    position: absolute;
+    height: 14em;
+    width: 4em;
+    margin-top: 22em;
+    margin-left: 11em;
+    overflow: hidden;
+}
+.select_book3{
+    height: 11em;
+}
+.select4{
+    display: flex;
+    position: absolute;
+    height: 14em;
+    width: 4em;
+    margin-top: 22em;
+    margin-left: 15em;
+    overflow: hidden;
+}
+.select_book4{
+    height: 11em;
+}
+.window{
+    position: absolute;
+    margin-top: 35em;
+    margin-left: 1.5em;
+}
